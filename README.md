@@ -1,4 +1,4 @@
-# the-to-do-list
+# The TO-DO List.
 
 # Problem Statement
 Create a simple To-Do List Manager where users can add tasks, mark them as completed, and delete them. The user should also have the
